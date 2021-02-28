@@ -13,4 +13,4 @@ This module contains several files:
 3. Report ~ I have included this part because it mentions more the theoritical part and more about the fradulent process in the module with the respect to the data itself.
 4. RMD ~ It is necessary file as I have used RMarkdown to write and generate the dataset. So it shows the data modeling, manipulation, etc.
 5. Source file ~ During the journey, I did several searches to know more about functions and libraries. Furthermore dive deeper in the concepts so I have attached all my external sources in this file.
-6. CSV file ~ Finally, the dataset itself. It is a little large around 150.8 MB.
+6. CSV file ~ Finally, the dataset itself. It is a little large around 150.8 MB. So I have splitted it to 10 csv files, all uploaded in this repo.
