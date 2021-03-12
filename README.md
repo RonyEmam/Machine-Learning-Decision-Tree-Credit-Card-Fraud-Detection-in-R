@@ -16,5 +16,8 @@ This module contains several files:
 6. CSV file ~ Finally, the dataset itself. It is a little large around 150.8 MB. So I have splitted it to 10 csv files, all uploaded in this repo.
 
 
-Neural network final modeling in this repo should be like:
+### Neural network final modeling in this repo should be like:
 ![](https://github.com/RewanEmam/Credit-Card-Fraud-Detection-Module/blob/main/Screenshot%20from%202021-02-28%2011-24-31.png)
+
+### Decision tree is:
+![](https://github.com/RewanEmam/Credit-Card-Fraud-Detection-Module/blob/main/Screenshot%20from%202021-02-28%2011-24-45.png)
