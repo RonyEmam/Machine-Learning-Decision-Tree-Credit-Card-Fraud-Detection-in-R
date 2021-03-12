@@ -14,3 +14,7 @@ This module contains several files:
 4. RMD ~ It is necessary file as I have used RMarkdown to write and generate the dataset. So it shows the data modeling, manipulation, etc.
 5. Source file ~ During the journey, I did several searches to know more about functions and libraries. Furthermore dive deeper in the concepts so I have attached all my external sources in this file.
 6. CSV file ~ Finally, the dataset itself. It is a little large around 150.8 MB. So I have splitted it to 10 csv files, all uploaded in this repo.
+
+
+Neural network final modeling in this repo should be like:
+![](https://github.com/RewanEmam/Credit-Card-Fraud-Detection-Module/blob/main/Screenshot%20from%202021-02-28%2011-24-31.png)
